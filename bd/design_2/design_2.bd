@@ -1,0 +1,24 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7a15tcpg236-1",
+      "gen_directory": "../../../../ipTesting2.gen/sources_1/bd/design_2",
+      "name": "design_2",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2021.1"
+    },
+    "design_tree": {
+      "fifo_generator_0": ""
+    },
+    "components": {
+      "fifo_generator_0": {
+        "vlnv": "xilinx.com:ip:fifo_generator:13.2",
+        "xci_name": "design_2_fifo_generator_0_0",
+        "xci_path": "ip/design_2_fifo_generator_0_0/design_2_fifo_generator_0_0.xci",
+        "inst_hier_path": "fifo_generator_0"
+      }
+    }
+  }
+}
